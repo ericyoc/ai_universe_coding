@@ -8,13 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="ai_universe.png" alt="The AI Universe Coding" width="600"/>
-</p>
 
-<p align="center">
-  <em>The AI Universe — five concentric rings spanning every major sub-field of Artificial Intelligence</em>
-</p>
 
 ---
 
