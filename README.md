@@ -10,9 +10,9 @@
 
 ## Overview
 
-This notebook is a **complete, semester-ready AI course** built around *The AI Universe* diagram — a concentric-ring taxonomy of artificial intelligence. Every labeled topic in the graphic has a dedicated markdown explanation, working code demo, and visual output.
+This notebook is a **complete, AI Coding Guide** built around *The AI Universe* — a concentric-ring taxonomy of artificial intelligence. Every labeled topic in the graphic has a dedicated markdown explanation, working code demo, and visual output.
 
-The course is organized into **six progressive modules** that mirror the five rings of the diagram, moving from the broadest concepts (Artificial Intelligence) inward to the most specialized (Generative AI).
+The guide is organized into **six progressive modules** that mirror the five rings of the diagram, moving from the broadest concepts (Artificial Intelligence) inward to the most specialized (Generative AI).
 
 ```
 Artificial Intelligence
