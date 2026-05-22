@@ -8,6 +8,16 @@
 
 ---
 
+<p align="center">
+  <img src="AI_world.gif" alt="The AI Universe" width="600"/>
+</p>
+
+<p align="center">
+  <em>The AI Universe — five concentric rings spanning every major sub-field of Artificial Intelligence</em>
+</p>
+
+---
+
 ## Overview
 
 This notebook is a **complete, AI Coding Guide** built around *The AI Universe* — a concentric-ring taxonomy of artificial intelligence. Every labeled topic in the graphic has a dedicated markdown explanation, working code demo, and visual output.
