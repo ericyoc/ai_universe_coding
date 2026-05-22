@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="ai_universe.png" alt="The AI Universe Coding" width="600"/>
+  <img src="ai_universe_rev2.png" alt="The AI Universe Coding" width="600"/>
 </p>
 
 <p align="center">
